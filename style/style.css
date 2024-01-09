@@ -97,7 +97,7 @@ margin-bottom: 120PX;
     width: 1300px;
     height: 800px;
     margin-left: 100px;
-    padding: 100px 550px 10px 125px;
+    padding: 100px 550px 50px 100px;
     display: flex;
     
      
@@ -130,3 +130,58 @@ margin-bottom: 120PX;
     margin-bottom:10px;
 }
 
+/* address section */
+
+.address-section{
+
+    width: 1320px;
+    height: 480px;
+    text-align: center;
+    background-color: pink;
+    padding: 100px 385px 215px 100px;
+    font-size: 32px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 30px;
+
+}
+.button-2{
+margin-top: 25px;
+
+}
+
+.coming-soon{
+    display: flex;
+    gap: 300px;
+    margin-top: 120px;
+    margin-left: 120px;
+
+
+
+
+
+
+
+}
+
+
+#sale{
+    height: 95px;
+    width: 1000px;
+    text-align: center;
+    margin-left: 400px;
+
+
+}
+
+
+
+.funtion-sale{
+
+    padding-top: 120px;
+
+
+    
+
+
+
+}
