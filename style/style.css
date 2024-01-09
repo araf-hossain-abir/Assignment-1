@@ -179,9 +179,42 @@ margin-top: 25px;
 
     padding-top: 120px;
 
+}
 
-    
+/* products-section */
 
+.products{
+    display: flex;
+
+    margin-left: 140px;
+    padding: 48px 24px;
+}
+
+.products-2{
+    display: flex;
+    margin-left: 140px;
+    padding: 24px 24px 24px 24px;
+}
+
+.subscribe{
+
+height: 616px;
+width: 1320px;
+background-color:rgba(255, 0, 0, 0.05) ;
+margin-left: 140px;
+margin-right: 140px;
 
 
 }
+
+.subscribe-2{
+
+display: flex;
+
+}
+
+
+
+
+
+
