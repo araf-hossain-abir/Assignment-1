@@ -1,7 +1,7 @@
 body{
     font-family: 'Merriweather', serif;
-    
-
+    height: 10350px;
+    width: 1600px;
 }
 
 /* banner styles */
@@ -15,16 +15,16 @@ body{
 
 background-image:url(../images/Banner\ Image.png);
 background-repeat: no-repeat;
-height: 1800px;
+height: 1500px;
 width: 1820px;
-margin: 50px 1px 16px 100px;
-overflow: hidden;
-padding: 16px 530px 100px 250px;
+margin: 50px 1px 1px 100px;
+/* overflow: hidden; */
+padding: 16px 53px 1px 250px;
 
 .banner-title{
     width: 800px;
     height: 100px;
-    padding: 50px 400px 10px 300px;
+    padding: 50px 00px 10px 00px;
     font-size: 32px;
     color:#FFF;
     text-align:center;
@@ -38,8 +38,95 @@ padding: 16px 530px 100px 250px;
 
 }
 
+.new-year-offer{
+
+    margin-top: 1px;
+    padding-top: px;
+}
 
 
 
 
+
+.offer{
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    
+    margin-top: opx;
+    margin-bottom: 10px;
+
+}
+
+.deals{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.category{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#new-year-img{
+
+margin-left: 500px;
+margin-bottom: 120PX;
+
+}
+
+/* welcome section */
+.welcome-img{
+
+    color: #FFF;
+
+    font-size: 64px;
+    text-align:left;
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1300px;
+    height: 800px;
+    margin-left: 100px;
+    padding: 100px 550px 10px 125px;
+    display: flex;
+    
+     
+
+}
+#welcome-text{
+
+    color:white;
+    font-size: 18px;
+    width: 700px;
+    height: 60px;
+    /* padding: 24px 500px 215px 125px; */
+    text-align: left;
+    padding-bottom:0px;
+    margin-top: ;
+    margin-bottom: 0px;
+}
+.midnight{
+    margin-bottom: 10px;
+    padding-bottom: ;
+    height: 175px;
+    width: 640px;
+}   
+.primary-button{
+
+    height: 40px;
+    width: 80px;
+    color: #070211;
+    border: none;
+    margin-bottom:10px;
+}
 
